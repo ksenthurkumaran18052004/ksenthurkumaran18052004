@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Senthur%20Kumaran%20Karthikeyan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Agentic%20AI%20Engineer%20%7C%20Multi-Agent%20Systems%20%7C%20LLM%20Architect&descAlignY=62&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Senthur%20Kumaran%20Karthikeyan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Agentic%20AI%20Engineer%20%7C%20Multi-Agent%20Systems%20%7C%20&descAlignY=62&descSize=16"/>
 
 <div align="center">
 
