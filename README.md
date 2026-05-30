@@ -15,33 +15,21 @@
 
 ## 🧠 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```python
-class SenthurKumaran:
-    def __init__(self):
-        self.name        = "Senthur Kumaran Karthikeyan"
-        self.location    = ["Hyderabad, India", "Evanston, IL (Fall 2026)"]
-        self.degree      = "B.Tech CSE @ VIT | MS CS @ Northwestern (incoming)"
-        self.stack       = [
-            "Agentic AI", "LangGraph", "LangChain",
-            "RAG", "LLMs", "PyTorch", "FastAPI",
-            "AWS", "Pinecone", "FAISS"
-        ]
-        self.currently_learning = [
-            "Advanced Multi-Agent Orchestration",
-            "Reinforcement Learning from Human Feedback",
-            "Distributed Systems for AI Inference"
-        ]
-        self.fun_fact    = "Filed a patent for AI-powered smart city road intelligence 🚦"
+Hi there! I'm **Senthur Kumaran**, an AI engineer passionate about building systems that don't just respond — they **reason, act, and learn autonomously**.
 
-    def motto(self) -> str:
-        return "Build AI that doesn't just answer — it acts, reasons, and learns."
+I'm currently finishing my **B.Tech in Computer Science at VIT Vellore** (CGPA: 9.18) and heading to **Northwestern University** for my **MS in Computer Science** in Fall 2026. Along the way, I've interned at **JPMorgan Chase**, **Ernst & Young**, and **Samsung R&D** — working on real-world agentic AI, RAG pipelines, and multi-agent orchestration.
 
-me = SenthurKumaran()
-print(me.motto())
-# → "Build AI that doesn't just answer — it acts, reasons, and learns."
-```
+My work lives at the intersection of **LLMs, autonomous agents, and enterprise engineering** — whether that's a 7-agent pipeline turning JIRA tickets into production code, or a federated learning system detecting diabetic retinopathy with 98% accuracy.
+
+- 🌍 &nbsp; Based in **Hyderabad, India** — moving to **Evanston, IL** in Fall 2026
+- 🎓 &nbsp; Incoming **MS CS @ Northwestern University**
+- 🏢 &nbsp; Currently interning at **JPMorgan Chase & Co.**
+- 🤖 &nbsp; Obsessed with **Agentic AI**, **LangGraph**, **RAG**, and **LLM orchestration**
+- 📜 &nbsp; Patent filed for an **AI-powered Smart City Road Intelligence** system 🚦
+- ✍️ &nbsp; Published in **Springer Scopus** and **IJEECS Scopus Q3** journals
+- 💡 &nbsp; Motto: *"Build AI that doesn't just answer — it acts, reasons, and learns."*
 
 <br clear="right"/>
 
